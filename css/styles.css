@@ -1,7 +1,28 @@
 body#index{
-  background-color: #648821;
+  background-color: #FFFF66;
 }
 body#accom{
   background-color: #996633;
+}
+body#act{
+  background-color: #993300;
+}
+body#trav{
+  background-color: #0099CC;
+}
+body#pic{
+  background-color: orange;
 
+}
+
+h1{
+  text-align: center;
+  font-family: fantasy;
+}
+h2{
+  font-style: italic;
+
+}
+h3{
+  font-variant: small-caps;
 }
