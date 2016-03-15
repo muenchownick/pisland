@@ -12,7 +12,6 @@ body#trav{
 }
 body#pic{
   background-color: orange;
-
 }
 
 h1{
@@ -25,4 +24,24 @@ h2{
 }
 h3{
   font-variant: small-caps;
+}
+
+section {
+  border: 3px solid red;
+  float: right;
+  width: 1250px;
+
+}
+
+nav {
+  float: right;
+  width: 1220px;
+
+  border: 3px solid black;
+}
+
+li {
+float: left;
+padding: 8px;
+display: block;
 }
