@@ -23,3 +23,23 @@ h2{
 h3{
   font-variant: small-caps;
 }
+
+section {
+  border: 3px solid red;
+  float: right;
+  width: 1220px;
+
+}
+
+nav {
+  float: right;
+  width: 1220px;
+
+  border: 3px solid black;
+}
+
+li {
+float: left;
+padding: 8px;
+display: block;
+}
